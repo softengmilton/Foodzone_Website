@@ -1,0 +1,181 @@
+/* Medium Layout 
+
+Checking Size: 1000px
+*/
+
+@media only screen and (min-width:992px) and (max-width:1200px) {
+    .container{
+        width: 970px;
+    }
+    .logo {
+        margin-left: 18px;
+    }
+    .menu {
+        width: 641px;
+    }
+    .header-btn {
+        margin-left: -1px;
+    }
+    .bannar-area {
+        height: auto;
+    }
+    .bannar-main {
+        width: 448px;
+        margin-right: 68px;
+        margin-left: 9px;
+    }
+    .bannar-content {
+        line-height: 70px;
+        margin-top: 25px;
+        font-size: 60px;
+    }
+    .content-two {
+        width: 491px;
+        margin-top: 10px;
+        margin-bottom: 45px;
+    }
+    .btn{
+        padding: 19px 13px;
+    }
+    .bannar-img img {
+        width: 415px;
+        margin-top: 30px;
+        
+    }
+    .welcome-img {
+        width: 386px;
+        margin-right: 58px;
+        margin-left: 8px;
+    }
+    .welcome-content {
+        margin-top: 15px;
+        width: 500px;
+    }
+    .welcome-content h5 {
+        font-size: 37px;
+        line-height: 39px;
+    }
+    .welcome-content p {
+        margin: 10px 0 45px 0;
+    }
+    .single-service {
+        margin-left: 45px;
+    }
+    .single-menu {
+        margin-left: 65px;
+        float: left;
+        width: 390px;
+    }
+    .single-menu:nth-child(2),.single-menu:nth-child(3),.single-menu:nth-child(4),.single-menu:nth-child(5){
+        border-radius: 10px;
+    }
+    .single-menu img {
+        width: 100%;
+        border-radius: 10px;
+    }
+    .btn2 {
+        width: 998px;
+        margin-top: 10px;
+    }
+    .single-review {
+        margin-top: 25px;
+        width: 300px;
+        margin-left: 20px;
+    }
+    .single-review img {
+        width: 75px;
+    }
+    .single-review h4 {
+        margin-top: 4px;
+    }
+    .single-review p {
+        font-size: 15px;
+        line-height: 26px;
+    }
+    .btn3 {
+        width: 1010px;
+    }
+    .single-team {
+        width: 237px;
+        margin-right: 5px;
+        height: 329px;
+    }
+    .team-content ul {
+        width: 222px;
+    }
+    .team-content ul li {
+        margin: 0px 7px -5px 29px;
+    }
+    .team-content ul li i {
+        font-size: 36px;
+    }
+    .single-blog {
+        width: 308px;
+        margin-right: 23px;
+    }
+    .blog-content h5 {
+        font-size: 27px;
+        line-height: 32px;
+    }
+    .blog-main {
+        height: 445px;
+    }
+    .footer-logo {
+        width: 404px;
+        margin-right: 16px;
+    }
+    .footer-logo a {
+        margin-left: -125px;
+    }
+    .footer-logo p {
+        margin-top: 25px;
+        font-size: 13px;
+        width: 269px;
+    }
+    .footer-links {
+        width: 220px;
+        margin-left: -106px;
+    }
+    .contact-us {
+        margin-left: 41px;
+        width: 280px;
+    }
+    .contact-links ul li {
+        margin-right: 40px;
+        margin-top: 9px;
+    }
+    .contact-links ul li i {
+        width: 40px;
+        height: 40px;
+        border-radius: 50%;
+        font-size: 25px;
+       
+    }
+    .blog-overlay a {
+        padding: 10px 21px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
